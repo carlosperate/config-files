@@ -1,0 +1,37 @@
+{
+	"added_words":
+	[
+		"ardublockly",
+		"arduino",
+		"blockly",
+		"css",
+		"colours",
+		"submodule",
+		"GitHub",
+		"https",
+		"carlosperate",
+		"offline",
+		"Ubuntu",
+		"wiki",
+		"param",
+		"namespace",
+		"preset",
+		"dialog"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"draw_white_space": "all",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80,
+		100,
+		120
+	],
+	"show_encoding": true,
+	"spell_check": true
+}
