@@ -1,0 +1,47 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // Controls the display of line numbers. Possible values are 'on', 'off', and 'relative'. 'relative' shows the line count from the current cursor position.
+    "editor.lineNumbers": "on",
+    // Columns at which to show vertical rulers
+    "editor.rulers": [80, 100, 120],
+
+    // The number of spaces a tab is equal to. This setting is overriden based on the file contents when `editor.detectIndentation` is on.
+    "editor.tabSize": 4,
+
+    // Insert spaces when pressing Tab. This setting is overriden based on the file contents when `editor.detectIndentation` is on.
+    "editor.insertSpaces": true,
+
+    // When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.
+    "editor.detectIndentation": true,
+
+    // Controls how the editor should render whitespace characters, posibilties are 'none', 'boundary', and 'all'. The 'boundary' option does not render single spaces between words.
+    "editor.renderWhitespace": "all",
+
+    "editor.minimap.enabled": true,
+    "window.zoomLevel": 0,
+
+    // Code Spell Checker
+    "cSpell.language": "en-GB",
+    "cSpell.userWords": [
+        "ardublockly",
+        "arduino",
+        "blockly",
+        "microbit",
+        "micro:bit",
+        "hyperduino",
+        "duino",
+        "hyperfirmata",
+        "firmata",
+        "analog",
+        "playlist",
+        "GitHub",
+        "carlosperate"
+    ],
+    "workbench.colorTheme": "One Dark Pro",
+
+    // C++
+    "C_Cpp.intelliSenseEngine": "Default",
+
+    // Controls whether to use .gitignore and .ignore files when searching for files.
+    "search.useIgnoreFiles": true,
+}
