@@ -1,0 +1,27 @@
+{
+    // jshint
+    "jshint.options": {
+        "esversion": 6
+    },
+
+    // C++
+    "C_Cpp.intelliSenseEngine": "Default",
+
+    // Code Spell Checker
+    "cSpell.language": "en-GB",
+    "cSpell.userWords": [
+        "ardublockly",
+        "arduino",
+        "blockly",
+        "microbit",
+        "micro:bit",
+        "hyperduino",
+        "duino",
+        "hyperfirmata",
+        "firmata",
+        "analog",
+        "playlist",
+        "GitHub",
+        "carlosperate"
+    ]
+}
