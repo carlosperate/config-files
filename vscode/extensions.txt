@@ -1,0 +1,11 @@
+arcticicestudio.nord-visual-studio-code
+austin.code-gnu-global
+dbaeumer.jshint
+dbaeumer.vscode-eslint
+joelday.docthis
+ms-python.python
+ms-vscode.cpptools
+msjsdiag.debugger-for-chrome
+SolarLiner.linux-themes
+streetsidesoftware.code-spell-checker
+zhuangtongfa.Material-theme
