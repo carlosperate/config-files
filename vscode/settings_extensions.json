@@ -23,5 +23,10 @@
         "playlist",
         "GitHub",
         "carlosperate"
-    ]
+    ],
+    // Python
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
 }
