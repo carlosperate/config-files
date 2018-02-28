@@ -1,2 +1,3 @@
-# config-files
-Personal config files for different editors and stuff.
+# Config Files
+
+Personal config files for different editors, tools, and similar stuff.
