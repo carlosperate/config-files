@@ -8,26 +8,9 @@
     // C++
     "C_Cpp.intelliSenseEngine": "Default",
 
-    // Code Spell Checker
+    // Code Spell Checker, for words look into the dictionary-words folder
     "cSpell.language": "en-GB",
-    "cSpell.userWords": [
-        "ardublockly",
-        "arduino",
-        "blockly",
-        "microbit",
-        "micro:bit",
-        "hyperduino",
-        "duino",
-        "hyperfirmata",
-        "firmata",
-        "analog",
-        "playlist",
-        "GitHub",
-        "carlosperate",
-        "dialog",
-        "checkbox",
-        "fulfill"
-    ],
+    "cSpell.userWords": [ ],
 
     // Python
     "python.pythonPath": "/usr/local/bin/python3",
