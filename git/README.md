@@ -1,6 +1,6 @@
 # General git commands I might use
 
-Good resource: [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
+Good resource: [Flight rules for Git](https://github.com/k88hudson/git-flight-rules), [Oh shit, git!](http://ohshitgit.com)
 
 
 ## Add local username and email
