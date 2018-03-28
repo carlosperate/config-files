@@ -24,6 +24,21 @@ git push https://carlosperate@github.com/carlosperate/<repo>.git
 ```
 
 
+## Print concise useful log
+```
+git --no-pager log --pretty=oneline -n30 --abbrev-commit --decorate --graph
+```
+
+## Squash the last few commits
+
+To squash the last 3 commits and write a new message:
+
+```
+git reset --soft HEAD~3 &&
+git commit
+```
+
+
 ## Rewrite history
 
 !!! Warning - You know this is bad
