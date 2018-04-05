@@ -25,9 +25,11 @@ git push https://carlosperate@github.com/carlosperate/<repo>.git
 
 
 ## Print concise useful log
+
 ```
 git --no-pager log --pretty=oneline -n30 --abbrev-commit --decorate --graph
 ```
+
 
 ## Squash the last few commits
 
@@ -87,4 +89,11 @@ git rebase --continue
 
 ```
 git reset <file>
+```
+
+
+## Checkout upstream git tag
+
+```
+git checkout tags/<tag_name> -b <branch_name>
 ```
