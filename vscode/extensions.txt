@@ -2,6 +2,7 @@ arcticicestudio.nord-visual-studio-code
 austin.code-gnu-global
 dbaeumer.jshint
 dbaeumer.vscode-eslint
+emmanuelbeziat.vscode-great-icons
 joelday.docthis
 ms-python.python
 ms-vscode.cpptools
