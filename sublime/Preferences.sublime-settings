@@ -24,7 +24,7 @@
 	// Text display
 	"line_numbers": true,
 	"draw_white_space": "all",
-	"show_line_endings": false,
+	"show_line_endings":  true,    // in the status bar
 	"draw_indent_guides": true,
 	"show_encoding": true,
 	// Formatting
