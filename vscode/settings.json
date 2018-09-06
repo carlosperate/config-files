@@ -18,6 +18,9 @@
     // Controls how the editor should render whitespace characters, possibilities are 'none', 'boundary', and 'all'. The 'boundary' option does not render single spaces between words.
     "editor.renderWhitespace": "all",
 
+    // The default end of line character: "\n" or "\r\n"
+    "files.eol": "\n",
+
     "editor.minimap.enabled": true,
 
     "window.zoomLevel": 0,
