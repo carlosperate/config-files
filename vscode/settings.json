@@ -6,16 +6,16 @@
     // Columns at which to show vertical rulers
     "editor.rulers": [80, 100, 120],
 
-    // The number of spaces a tab is equal to. This setting is overriden based on the file contents when `editor.detectIndentation` is on.
+    // The number of spaces a tab is equal to. This setting is overridden based on the file contents when `editor.detectIndentation` is on.
     "editor.tabSize": 4,
 
-    // Insert spaces when pressing Tab. This setting is overriden based on the file contents when `editor.detectIndentation` is on.
+    // Insert spaces when pressing Tab. This setting is overridden based on the file contents when `editor.detectIndentation` is on.
     "editor.insertSpaces": true,
 
     // When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.
     "editor.detectIndentation": true,
 
-    // Controls how the editor should render whitespace characters, possibilities are 'none', 'boundary', and 'all'. The 'boundary' option does not render single spaces between words.
+    // Controls how the editor should render white space characters, possibilities are 'none', 'boundary', and 'all'. The 'boundary' option does not render single spaces between words.
     "editor.renderWhitespace": "all",
 
     // The default end of line character: "\n" or "\r\n"
@@ -28,11 +28,19 @@
     // This is not a default theme
     "workbench.colorTheme": "One Dark Pro",
 
+    // macOS terminal settings (not a default font or shell)
+    "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+
     // Controls whether to use .gitignore and .ignore files when searching for files.
     "search.useIgnoreFiles": true,
 
     // For node.js projects exclude npm modules
     "search.exclude": {
         "**/node_modules": true,
-    }
+    },
+
+    // Code Spell Checker
+    "cSpell.language": "en-GB",
+    "cSpell.userWords": [],
 }
