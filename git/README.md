@@ -23,6 +23,12 @@ git commit --amend --no-edit --author="carlosperate <carlosperate@users.noreply.
 git push https://carlosperate@github.com/carlosperate/<repo>.git
 ```
 
+Or remove credentials for the local git repo:
+
+```
+git config --local credential.helper ""
+```
+
 
 ## Print concise useful log
 
