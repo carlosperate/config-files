@@ -14,7 +14,7 @@
 
     // Python
     "python.linting.enabled": true,
-    "python.linting.pylintEnabled": true,
+    "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
 
     // VSCode Great Icons extension
