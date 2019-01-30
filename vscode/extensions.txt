@@ -2,6 +2,7 @@
 arcticicestudio.nord-visual-studio-code
 azemoh.one-monokai
 azemoh.theme-onedark
+CoenraadS.bracket-pair-colorizer
 dbaeumer.jshint
 dbaeumer.vscode-eslint
 emmanuelbeziat.vscode-great-icons
