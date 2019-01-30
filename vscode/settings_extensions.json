@@ -19,4 +19,7 @@
 
     // VSCode Great Icons extension
     "workbench.iconTheme": "vscode-great-icons",
+
+    // Bracket Pair Colorizer extension
+    "bracketPairColorizer.showHorizontalScopeLine": false,
 }
