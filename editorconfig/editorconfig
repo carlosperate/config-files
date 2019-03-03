@@ -16,12 +16,28 @@ trim_trailing_whitespace = false
 
 [*.py]
 max_line_length = 79
+quote_type = single
+
+[*.{js,ts}]
+quote_type = single
+curly_bracket_next_line = false
+spaces_around_brackets = inside
+indent_brace_style = 1TBS
 
 # Minified JavaScript files shouldn't be changed
 [**.min.js]
 indent_style = ignore
 insert_final_newline = ignore
 max_line_length = ignore
+
+[*.html]
+quote_type = double
+
+[*.{c,cpp}]
+curly_bracket_next_line = false
+spaces_around_brackets = inside
+indent_brace_style = 1TBS
+max_line_length = 80
 
 # Makefiles always use tabs for indentation
 [Makefile]
