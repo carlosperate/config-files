@@ -19,8 +19,8 @@
 		"GitHub",
 		"http",
 		"makecode",
-		"microbit",
 		"micro:bit",
+		"microbit",
 		"microcontroller",
 		"micropython",
 		"namespace",
@@ -35,6 +35,7 @@
 		"submodule",,
 		"toolchain",
 		"Ubuntu",
+		"username",
 		"wiki",
 		"workflow"
 	]
