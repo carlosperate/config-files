@@ -4,3 +4,5 @@
 	name = carlosperate
 [core]
 	autocrlf = input
+[pager]
+	branch = false
