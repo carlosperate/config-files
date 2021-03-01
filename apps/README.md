@@ -6,8 +6,8 @@
 
 ## Hex Editors
 
+- [HexEd.it](https://hexed.it/) - Online Hex editor, with a lot of good features, impressive online app.
 - [HxD](https://mh-nexus.de/en/hxd/) (Windows) - Probably the best Hex editor on Windows.
-- []
 
 
 ## Other apps for macOS
