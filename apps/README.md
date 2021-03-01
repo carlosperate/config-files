@@ -1,6 +1,6 @@
-# Other configurations for macOS
+# Useful apps
 
-## Mouse
+## Other apps for macOS
 
 For much better mouse acceleration install this preferences pane: http://triq.net/mac/mouse-acceleration
 
