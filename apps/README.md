@@ -1,7 +1,16 @@
 # Useful apps
 
+This is just a personal list of tools I might not use very often, but is good to have them.
+
+- [Flow Charts](#flow-charts)
 - [Hex Editors](#hex-editors)
 - [Other apps for macOS](#other-apps-for-macos)
+
+
+## Flow Charts
+
+- [js2flowchart.js](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - SVG charts from JavaScript code. More like a visual representation of the code than a flowchart.
+    - Live: https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart
 
 
 ## Hex Editors
