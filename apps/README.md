@@ -24,3 +24,5 @@ This is just a personal list of tools I might not use very often, but is good to
 
 - For much better mouse acceleration install this preferences pane: http://triq.net/mac/mouse-acceleration
 - For keeping natural scrolling on track pad and normal scrolling on mouse: https://pilotmoon.com/scrollreverser/
+    - This application will be a pay-app in the future
+- For reversing scrolls this looks like another option (haven't tried it): https://github.com/ther0n/UnnaturalScrollWheels
