@@ -11,6 +11,7 @@ This is just a personal list of tools I might not use very often, but is good to
 
 - [js2flowchart.js](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - SVG charts from JavaScript code. More like a visual representation of the code than a flowchart.
     - Live: https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart
+- [code2flow](https://code2flow.com) - My favourite so far, DSL is easy and offers most of what you need in a flow chart diagram. Online service, 5 diagrams w/ 50 nodes are free.
 
 
 ## Hex Editors
