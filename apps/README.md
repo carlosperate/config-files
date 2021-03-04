@@ -5,6 +5,7 @@ This is just a personal list of tools I might not use very often, but is good to
 - [Flow Charts](#flow-charts)
 - [Hex Editors](#hex-editors)
 - [Other apps for macOS](#other-apps-for-macos)
+- [Analysing Project Dependencies](#analysing-project-dependencies)
 
 
 ## Flow Charts
@@ -29,3 +30,8 @@ This is just a personal list of tools I might not use very often, but is good to
 - For keeping natural scrolling on track pad and normal scrolling on mouse: https://pilotmoon.com/scrollreverser/
     - This application will be a pay-app in the future
 - For reversing scrolls this looks like another option (haven't tried it): https://github.com/ther0n/UnnaturalScrollWheels
+
+
+## Analysing Project Dependencies
+
+- [fossa](https://github.com/fossas/fossa-cli) - Analyzes complex codebases to generate dependency reports and license notices.
