@@ -19,6 +19,7 @@ This is just a personal list of tools I might not use very often, but is good to
 - [HxD](https://mh-nexus.de/en/hxd/) (Windows) - Probably the best Hex editor on Windows.
 - [HexEdit](https://github.com/strobejb/HexEdit) (Windows) - Open source hex editor, last update 2015.
 - [Hex Fiend](https://hexfiend.com) (macOS) - Probably the best free Hex editor on macOS, often cloned in random App store apps.
+- [rehex](https://github.com/solemnwarning/rehex) (Linux) - Reverse Engineers' Hex Editor
 
 
 ## Other apps for macOS
