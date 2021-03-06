@@ -5,7 +5,7 @@ This is just a personal list of tools I might not use very often, but is good to
 - [Flow Charts](#flow-charts)
 - [Hex Editors](#hex-editors)
 - [Other apps for macOS](#other-apps-for-macos)
-- [Analysing Project Dependencies](#analysing-project-dependencies)
+- [Analysing Projects](#analysing-projects)
 
 
 ## Flow Charts
@@ -32,6 +32,10 @@ This is just a personal list of tools I might not use very often, but is good to
 - For reversing scrolls this looks like another option (haven't tried it): https://github.com/ther0n/UnnaturalScrollWheels
 
 
-## Analysing Project Dependencies
+## Analysing Projects
+
+Things that scan a project to do something useful (excluding linters).
 
 - [fossa](https://github.com/fossas/fossa-cli) - Analyzes complex codebases to generate dependency reports and license notices.
+- [Licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies.
+- [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
