@@ -47,3 +47,4 @@ Things that scan a project to do something useful (excluding linters).
 
 - [Counter](https://counter.dev) - Simple Web Analytics made simple and therefore privacy friendly.
 - [Goat Counter](https://www.goatcounter.com) - Easy web analytics. No tracking of personal data.
+- [Insights](https://getinsights.io) - Privacy-Focused Analytics Platform For Developers.
