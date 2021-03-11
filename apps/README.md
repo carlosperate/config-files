@@ -6,6 +6,7 @@ This is just a personal list of tools I might not use very often, but is good to
 - [Hex Editors](#hex-editors)
 - [Other apps for macOS](#other-apps-for-macos)
 - [Analysing Projects](#analysing-projects)
+- [Free Privacy Focused Analytics](#free-privacy-focused-analytics)
 
 
 ## Flow Charts
@@ -40,3 +41,9 @@ Things that scan a project to do something useful (excluding linters).
 - [Licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies.
 - [Legally](https://github.com/franciscop/legally) - Check the licenses for the NPM packages that you use.
 - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+
+
+## Free Privacy Focused Analytics
+
+- [Counter](https://counter.dev) - Simple Web Analytics made simple and therefore privacy friendly.
+
