@@ -46,4 +46,4 @@ Things that scan a project to do something useful (excluding linters).
 ## Free Privacy Focused Analytics
 
 - [Counter](https://counter.dev) - Simple Web Analytics made simple and therefore privacy friendly.
-
+- [Goat Counter](https://www.goatcounter.com) - Easy web analytics. No tracking of personal data.
