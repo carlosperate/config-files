@@ -6,3 +6,21 @@
 	autocrlf = input
 [pager]
 	branch = false
+	diff = delta
+	log = delta
+	reflog = delta
+	show = delta
+[diff]
+	context = 6
+[delta]
+	plus-style = "syntax #0d310b"
+	minus-style = "syntax #551617"
+	syntax-theme = Monokai Extended
+	features = hoopoe
+	navigate = true
+	line-numbers = true
+	side-by-side = true
+[include]
+	path = <path_to_delta_themes.gitconfig>
+[interactive]
+	diffFilter = delta --color-only
