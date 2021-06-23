@@ -12,6 +12,7 @@ This is just a personal list of tools I might not use very often, but is good to
 ## Diagrams
 
 - [PlantUML](https://plantuml.com) - Covers a wide range of UML diagrams and has an online free server to generate the images.
+- [mermaid](https://github.com/mermaid-js/mermaid) - Markdown-inspired text definitions and a renderer to create and modify complex diagrams. Includes online live editor.
 
 ### Flow Charts
 - [js2flowchart.js](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - SVG charts from JavaScript code. More like a visual representation of the code than a flowchart.
