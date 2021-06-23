@@ -41,10 +41,14 @@ Things that scan a project to do something useful (excluding linters).
 - [fossa](https://github.com/fossas/fossa-cli) - Analyzes complex codebases to generate dependency reports and license notices.
 - [Licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies.
 - [Legally](https://github.com/franciscop/legally) - Check the licenses for the NPM packages that you use.
-- [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 
 ### Binary profilers
 - [Bloaty McBloatface](https://github.com/google/bloaty) - A size profiler for binaries.
+- [puncover](https://github.com/HBehrens/puncover) - Analyses C/C++ build output for code size, static variables, and stack usage.
+
+### Other scans
+- [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+
 
 ## Free Privacy Focused Analytics
 
