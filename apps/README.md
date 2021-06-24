@@ -53,6 +53,7 @@ Things that scan a project to do something useful (excluding linters).
 ### Binary profilers
 - [Bloaty McBloatface](https://github.com/google/bloaty) - A size profiler for binaries.
 - [puncover](https://github.com/HBehrens/puncover) - Analyses C/C++ build output for code size, static variables, and stack usage.
+- [MbedOS Linker Report](https://github.com/armmbed/mbed-os-linker-report) - Post-processing of linker output to calculate and visualize memory usage for elf-sections.
 
 ### Other scans
 - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
