@@ -1,9 +1,11 @@
 [user]
 	email = carlosperate@users.noreply.github.com
-[user]
 	name = carlosperate
+	useConfigOnly = true
 [core]
 	autocrlf = input
+[pull]
+	rebase = false
 [pager]
 	branch = false
 	diff = delta
@@ -16,10 +18,13 @@
 	plus-style = "syntax #0d310b"
 	minus-style = "syntax #551617"
 	syntax-theme = Monokai Extended
-	features = hoopoe
 	navigate = true
 	line-numbers = true
 	side-by-side = true
+	# features = hoopoe
+	file-style = omit
+	hunk-header-style = file line-number syntax
+	line-numbers-zero-style = "#999999"
 [include]
 	path = <path_to_delta_themes.gitconfig>
 [interactive]
